@@ -7,22 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1OZHAWWJg3uWrv6Z_Xr5tVga5TCEf36zF
 """
 
-# =========================================================
-# PROJETO A3 — ETL + DASHBOARD + EDA
-# UC: ANÁLISE DE DADOS E BIG DATA — UNIFACS 2026/1
-# Tema: Educação — Censo Escolar 2025 (INEP)
-#
-# INSTRUÇÕES:
-# 1. Baixe os arquivos:
-#    → Tabela_Escola_2025.csv
-#    → Tabela_Docente_2025.csv
-#    → Tabela_Matricula_2025.csv
-# 2. Execute — uma janela de upload vai aparecer
-# 3. Selecione os 3 arquivos CSV ao mesmo tempo:
-#    → Tabela_Escola_2025.csv
-#    → Tabela_Docente_2025.csv
-#    → Tabela_Matricula_2025.csv
-# =========================================================
 
 # ── Instalar bibliotecas ─────────────────────────
 import subprocess
