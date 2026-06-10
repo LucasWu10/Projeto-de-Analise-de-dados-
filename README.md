@@ -3,7 +3,7 @@
 UC: ANÁLISE DE DADOS E BIG DATA — UNIFACS 2026/1
 Tema: Educação — Censo Escolar 2025 (INEP)
 
- INSTRUÇÕES:
+ INSTRUÇÕES Para Rodar o codigo:
  1. Baixe os Dados:
     → Tabela_Escola_2025.csv
     → Tabela_Docente_2025.csv
