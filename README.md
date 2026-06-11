@@ -3,7 +3,7 @@
 UC: ANÁLISE DE DADOS E BIG DATA — UNIFACS 2026/1
 Tema: Educação — Censo Escolar 2025 (INEP)
 
-Fonte de dados do consenso escolar https://download.inep.gov.br/dados_abertos/microdados_censo_escolar_2025_.zip
+Fonte de dados do consenso escolar: https://download.inep.gov.br/dados_abertos/microdados_censo_escolar_2025_.zip
  
  INSTRUÇÕES Para Rodar o codigo:
  1. Baixe os Dados:
